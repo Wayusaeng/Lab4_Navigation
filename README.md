@@ -1,4 +1,4 @@
-# lab04
+<img width="623" height="1047" alt="Screenshot 2026-07-24 151853" src="https://github.com/user-attachments/assets/10a7225b-fadc-4b07-b7fe-eeca8733261d" /># lab04
 # หน้ารายละเอียด
 <img width="1292" height="1045" alt="Screenshot 2026-07-24 145645" src="https://github.com/user-attachments/assets/ae11d896-73a2-45d1-b8dd-e696648064c9" />
 <img width="1292" height="1038" alt="Screenshot 2026-07-24 145656" src="https://github.com/user-attachments/assets/c6e80356-391c-4198-b5a1-0af4ed76e4a3" />
@@ -20,6 +20,8 @@
 <img width="620" height="1042" alt="Screenshot 2026-07-24 154013" src="https://github.com/user-attachments/assets/2f4ed84f-6464-4e5a-89ab-368097c2b09b" />
 
 ## หน้ายืนยันออก
-<img width="1000" height="562" alt="Screenshot 2026-07-24 083644" src="https://github.com/user-attachments/assets/9ffd37df-7b24-4270-b1f0-56d101616e20" />
-<img width="1000" height="562" alt="Screenshot 2026-07-24 083644" src="https://github.com/user-attachments/assets/1468c836-9a2e-4f47-8d03-9621168525ba" />
-<img width="1000" height="562" alt="Screenshot 2026-07-24 083644" src="https://github.com/user-attachments/assets/62d28521-18bb-406b-85ac-959bfc8bfb9c" />
+<img width="623" height="1058" alt="Screenshot 2026-07-24 154211" src="https://github.com/user-attachments/assets/4916cbec-3328-4950-a849-90502b444ee6" />
+<img width="630" height="1057" alt="Screenshot 2026-07-24 154221" src="https://github.com/user-attachments/assets/d07947db-18b1-4c10-8ae1-76043dbeb4e2" />
+<img width="628" height="1050" alt="Screenshot 2026-07-24 154240" src="https://github.com/user-attachments/assets/4220d5b5-1643-4457-a4c6-e2379c992424" />
+
+
