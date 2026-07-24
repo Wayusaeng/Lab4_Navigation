@@ -18,3 +18,8 @@
 <img width="625" height="1056" alt="Screenshot 2026-07-24 154000" src="https://github.com/user-attachments/assets/ccef5bfc-d446-4e96-bcee-4f2fa57d23fa" />
 <img width="630" height="1062" alt="Screenshot 2026-07-24 154005" src="https://github.com/user-attachments/assets/96c5d6a3-e731-42ad-98fd-f16f561a1ecd" />
 <img width="620" height="1042" alt="Screenshot 2026-07-24 154013" src="https://github.com/user-attachments/assets/2f4ed84f-6464-4e5a-89ab-368097c2b09b" />
+
+## หน้ายืนยันออก
+<img width="1000" height="562" alt="Screenshot 2026-07-24 083644" src="https://github.com/user-attachments/assets/9ffd37df-7b24-4270-b1f0-56d101616e20" />
+<img width="1000" height="562" alt="Screenshot 2026-07-24 083644" src="https://github.com/user-attachments/assets/1468c836-9a2e-4f47-8d03-9621168525ba" />
+<img width="1000" height="562" alt="Screenshot 2026-07-24 083644" src="https://github.com/user-attachments/assets/62d28521-18bb-406b-85ac-959bfc8bfb9c" />
