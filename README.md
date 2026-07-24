@@ -1,17 +1,5 @@
 # lab04
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# หน้ารายละเอียด
+<img width="1292" height="1045" alt="Screenshot 2026-07-24 145645" src="https://github.com/user-attachments/assets/ae11d896-73a2-45d1-b8dd-e696648064c9" />
+<img width="1291" height="1047" alt="Screenshot 2026-07-24 145706" src="https://github.com/user-attachments/assets/949ae813-d2bf-445d-ad40-dbcd916f9cca" />
+<img width="1292" height="1045" alt="Screenshot 2026-07-24 145645" src="https://github.com/user-attachments/assets/b3ec708b-879f-48d3-815f-c99df591a1a8" />
